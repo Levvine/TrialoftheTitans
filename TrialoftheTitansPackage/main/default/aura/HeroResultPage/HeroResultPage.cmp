@@ -19,7 +19,7 @@
                 <c:titanViewContainer></c:titanViewContainer>
             </div>
             <div class="slds-col slds-size_4-of-12">
-                <c:sideBar></c:sideBar>
+                <c:sidebar></c:sidebar>
             </div>
         </div>
         <div class="slds-col slds-size_1-of-1">
